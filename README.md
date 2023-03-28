@@ -13,7 +13,7 @@
 - *Cantar*
 
 4. Lema
-> *Moriremos Todos:*  
+> *Moriremos Todos*  
 
 *Bryan , "Procesa Datos" (2023)*
 
