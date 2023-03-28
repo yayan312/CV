@@ -2,7 +2,7 @@
 
 ## Información Personal
 1. Nombre \
-*Bryan Ramirez* <img src= "Aurelion sol.jpg" width="150">
+*Bryan Ramirez* <img src= "https://egw.news/uploads/cache/news/750/1673254263864-16x9.jpg" width="150">
 
 2. Nacionalidad \
 *Mexicano*
