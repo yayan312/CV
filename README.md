@@ -7,7 +7,7 @@
 2. Nacionalidad \
 *Mexicano*
 
-3. Habilidades \
+3. Habilidades 
 - *Dormir*
 - *Comer*
 - *Cantar*
